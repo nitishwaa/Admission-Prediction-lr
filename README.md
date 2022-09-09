@@ -1,7 +1,9 @@
 # Admission-Prediction-lr
 Predicting chance of admission using linear regression technique.
 This is my first project on which I am working from scratch. This data set has been analysed, cleaned and then used for training the model. 
-I will further deploy this model by connecting it through API and host it on Heroku and paste the link in this readme  section itself.
+I have shared more about this data set and the operations in an article. Do check out
+https://medium.com/@nitishchowan/implementing-linear-regression-using-admission-prediction-data-set-df5572940fee
+
 # Library used
 pandas, 
 numpy,
